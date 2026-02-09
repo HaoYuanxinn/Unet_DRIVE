@@ -1,17 +1,18 @@
 # UNet Segmentation (PyTorch)
 
-ÓÃ PyTorch ¸´ÏÖ UNet£¬Ê¹ÓÃDRIVE Êı¾İ¼¯
+ç”¨ PyTorch å¤ç° UNetï¼Œä½¿ç”¨DRIVE æ•°æ®é›†
+ä¸»è¦å‚è€ƒä»“åº“ï¼šhttps://github.com/WZMIAOMIAO/deep-learning-for-image-processing
 
-## ÏîÄ¿½á¹¹
-- `unet.py`£ºUNet ÍøÂç½á¹¹¶¨Òå
-- `train.py`£ºÖ÷ÑµÁ·Óë²âÊÔ½Å±¾
-- `plot.py`£º½á¹û¿ÉÊÓ»¯
-- `transforms.py`: Êı¾İÔöÇ¿ÓëÔ¤´¦Àí
-- `datasets.py`:Êı¾İ¼¯¶¨Òå
-- `utils.py`:ÑµÁ·¹¤¾ßº¯Êı¡¢Ö¸±êÓëËğÊ§º¯Êı
-- `DRIVE/`£ºDRIVE Êı¾İ¼¯
+## é¡¹ç›®ç»“æ„
+- `unet.py`ï¼šUNet ç½‘ç»œç»“æ„å®šä¹‰
+- `train.py`ï¼šä¸»è®­ç»ƒä¸æµ‹è¯•è„šæœ¬
+- `plot.py`ï¼šç»“æœå¯è§†åŒ–
+- `transforms.py`: æ•°æ®å¢å¼ºä¸é¢„å¤„ç†
+- `datasets.py`:æ•°æ®é›†å®šä¹‰
+- `utils.py`:è®­ç»ƒå·¥å…·å‡½æ•°ã€æŒ‡æ ‡ä¸æŸå¤±å‡½æ•°
+- `DRIVE/`ï¼šDRIVE æ•°æ®é›†
 
-## »·¾³ÒÀÀµ
+## ç¯å¢ƒä¾èµ–
 - numpy==1.22.0
 - pandas==1.4.4
 - matplotlib==3.5.3
