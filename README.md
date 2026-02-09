@@ -1,7 +1,10 @@
 # UNet Segmentation (PyTorch)
 
 用 PyTorch 复现 UNet，使用DRIVE 数据集
+
 主要参考仓库：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+使用方法见：https://blog.csdn.net/2301_77385325/article/details/157901568?spm=1001.2014.3001.5501
 
 ## 项目结构
 - `unet.py`：UNet 网络结构定义
