@@ -13,7 +13,7 @@
 - `DRIVE/`：DRIVE 数据集
 
 ## 环境依赖
-- numpy==1.22.0
+- numpy==1.24.4
 - pandas==1.4.4
 - matplotlib==3.5.3
 - Pillow
