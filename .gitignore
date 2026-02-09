@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+.env
+.venv
+*.conda
+*.env
+
+# VSCode
+.vscode/
+
+# Data & weights
+data/
+datasets/
+*.pth
+*.pt
+*.ckpt
+
+# Logs & outputs
+runs/
+logs/
+results*.txt
+
+# OS
+.DS_Store
+Thumbs.db
